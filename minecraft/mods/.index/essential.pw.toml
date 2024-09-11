@@ -1,0 +1,13 @@
+filename = 'essential_1-3-4-1_forge_1-19-2.jar'
+name = 'Essential Mod'
+side = 'client'
+
+[download]
+hash = '76045ff0b311d64bae7c1ff59cdb6471e616bee1da329bcd2a5263daad753536f145594df4b24f4f9b2c225eacce97adc44498edd008656fe1a113422e10d803'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/hagGUzgx/essential_1-3-4-1_forge_1-19-2.jar'
+
+[update.modrinth]
+mod-id = 'k2ZPuTBm'
+version = 'hagGUzgx'

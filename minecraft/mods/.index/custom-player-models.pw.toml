@@ -1,0 +1,13 @@
+filename = 'CustomPlayerModels-1.19-0.6.18a.jar'
+name = 'Customizable Player Models'
+side = 'client'
+
+[download]
+hash = '815ca159e3047c22c7d3005570e8deb707e9165910badc71fc0ae38af788810f918b7062384d2dbe8823e2aa29307df176785301730275409c21910c19fda1ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h1E7sQNL/versions/oixudW5I/CustomPlayerModels-1.19-0.6.18a.jar'
+
+[update.modrinth]
+mod-id = 'h1E7sQNL'
+version = 'oixudW5I'

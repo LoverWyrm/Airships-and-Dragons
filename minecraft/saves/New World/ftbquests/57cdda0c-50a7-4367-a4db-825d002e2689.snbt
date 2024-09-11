@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "57cdda0c50a74367a4db825d002e2689"
+	name: "Loverwyrm"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
